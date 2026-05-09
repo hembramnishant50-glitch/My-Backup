@@ -43,3 +43,6 @@ flatpak install flathub de.swsnr.keepmeawake
 
 
 
+gsettings set org.gnome.desktop.privacy remember-recent-files false
+rm ~/.local/share/recently-used.xbel
+
