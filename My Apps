@@ -1,0 +1,45 @@
+yay -S ayugram-desktop-bin
+yay -S nwg-look
+yay -S cryptomator-bin
+yay -S keypunch-git
+yay -S lenspect
+yay -S megabasterd-bin
+yay -Sy brave-origin-beta-bin
+yay -S helium-browser-bin
+yay -S google-chrome
+
+
+
+sudo pacman -S bleachbit
+sudo pacman -S obsidian
+sudo pacman -S blanket
+sudo pacman -S handbrake
+sudo pacman -S qbittorrent
+sudo pacman -S torbrowser-launcher
+sudo pacman -S metadata-cleaner
+sudo pacman -S collision
+sudo pacman -S nautilus-python
+sudo pacman -S gedit
+sudo pacman -S gedit-plugins
+
+
+
+sudo pacman -S flatpak
+flatpak install flathub io.gitlab.theevilskeleton.Upscaler
+flatpak install flathub io.gitlab.adhami3310.Converter
+flatpak install flathub org.gnome.gitlab.YaLTeR.VideoTrimmer
+flatpak install flathub fr.handbrake.ghb
+flatpak install flathub org.bunkus.mkvtoolnix-gui
+flatpak install flathub io.github.AshBuk.FingerGo
+flatpak install flathub app.drey.Dialect
+flatpak install flathub io.github.flattool.Warehouse
+flatpak install flathub net.nokyan.Resources
+flatpak install flathub io.github.linx_systems.ClamUI
+flatpak install flathub io.github.vmkspv.lenspect
+flatpak install flathub com.github.tenderowl.frog
+flatpak install flathub io.github.kolunmi.Bazaar
+flatpak install flathub io.github.fabrialberio.pinapp
+flatpak install flathub de.swsnr.keepmeawake
+
+
+
