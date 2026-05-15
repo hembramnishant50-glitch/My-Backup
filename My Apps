@@ -46,3 +46,6 @@ flatpak install flathub de.swsnr.keepmeawake
 gsettings set org.gnome.desktop.privacy remember-recent-files false
 rm ~/.local/share/recently-used.xbel
 
+cd My-Backup
+chmod +x Omarcht-app-install.sh
+./Omarcht-app-install.sh
