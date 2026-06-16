@@ -48,10 +48,12 @@ FLATPAK_APPS=(
     "net.nokyan.Resources"
     "io.github.linx_systems.ClamUI"
     "io.github.vmkspv.lenspect"
-    "com.github.tenderowl.frog"
     "io.github.kolunmi.Bazaar"
     "io.github.fabrialberio.pinapp"
-    "de.swsnr.keepmeawake"
+    "com.notesnook.Notesnook"
+    "net.ankiweb.Anki"
+    "com.calibre_ebook.calibre"
+    "org.gnome.clocks"
 )
 
 # ==============================================================================
