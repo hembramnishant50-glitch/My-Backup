@@ -9,14 +9,11 @@
 
 # Apps to install using 'yay'
 YAY_APPS=(
-    "ayugram-desktop-bin"
     "nwg-look"
     "cryptomator-bin"
     "keypunch-git"
     "lenspect"
-    "megabasterd-bin"
     "helium-browser-bin"
-    "peazip-gtk2-bin"
 )
 
 # Apps to install using 'sudo pacman'
@@ -26,12 +23,8 @@ PACMAN_APPS=(
     "blanket"
     "handbrake"
     "qbittorrent"
-    "torbrowser-launcher"
-    "metadata-cleaner"
     "collision"
     "nautilus-python"
-    "gedit"
-    "gedit-plugins"
     "flatpak"
 )
 
@@ -42,18 +35,20 @@ FLATPAK_APPS=(
     "org.gnome.gitlab.YaLTeR.VideoTrimmer"
     "fr.handbrake.ghb"
     "org.bunkus.mkvtoolnix-gui"
-    "io.github.AshBuk.FingerGo"
     "app.drey.Dialect"
     "io.github.flattool.Warehouse"
-    "net.nokyan.Resources"
     "io.github.linx_systems.ClamUI"
     "io.github.vmkspv.lenspect"
     "io.github.kolunmi.Bazaar"
     "io.github.fabrialberio.pinapp"
     "com.notesnook.Notesnook"
     "net.ankiweb.Anki"
-    "com.calibre_ebook.calibre"
     "org.gnome.clocks"
+    "io.github.peazip.PeaZip"
+    com.tonikelope.MegaBasterd
+    org.nickvision.tubeconverter
+    
+
 )
 
 # ==============================================================================
